@@ -27,6 +27,9 @@
         </tbody>
       </table>
     </div>
+  
+  <?php include('sheets.php');?>
+  
   <script>
     const dataOutput = document.querySelector('.output');
 
